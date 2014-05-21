@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1400691779 source:/home/josemarcelino/Documentos/PPP/PPP_isolaalgarismos/PPPProject/Data.c
+
+1400692130 source:/home/josemarcelino/Documentos/PPP/PPP_isolaalgarismos/PPPProject/Cliente.c
+	"Data.c"
+
+1400692240 /home/josemarcelino/Documentos/PPP/PPP_isolaalgarismos/PPPProject/Data.c
+	"Main.c"
+
+1400692117 /home/josemarcelino/Documentos/PPP/PPP_isolaalgarismos/PPPProject/Main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Data.c"
+	"Cliente.c"
+
+1400692130 /home/josemarcelino/Documentos/PPP/PPP_isolaalgarismos/PPPProject/Cliente.c
+	"Data.c"
+
